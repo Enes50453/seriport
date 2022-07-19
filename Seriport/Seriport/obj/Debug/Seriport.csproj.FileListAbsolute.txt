@@ -1,0 +1,10 @@
+C:\Users\ENES\source\repos\Seriport\Seriport\bin\Debug\Seriport.exe.config
+C:\Users\ENES\source\repos\Seriport\Seriport\bin\Debug\Seriport.exe
+C:\Users\ENES\source\repos\Seriport\Seriport\bin\Debug\Seriport.pdb
+C:\Users\ENES\source\repos\Seriport\Seriport\obj\Debug\Seriport.csprojAssemblyReference.cache
+C:\Users\ENES\source\repos\Seriport\Seriport\obj\Debug\Seriport.Form1.resources
+C:\Users\ENES\source\repos\Seriport\Seriport\obj\Debug\Seriport.Properties.Resources.resources
+C:\Users\ENES\source\repos\Seriport\Seriport\obj\Debug\Seriport.csproj.GenerateResource.cache
+C:\Users\ENES\source\repos\Seriport\Seriport\obj\Debug\Seriport.csproj.CoreCompileInputs.cache
+C:\Users\ENES\source\repos\Seriport\Seriport\obj\Debug\Seriport.exe
+C:\Users\ENES\source\repos\Seriport\Seriport\obj\Debug\Seriport.pdb
